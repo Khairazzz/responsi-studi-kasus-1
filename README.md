@@ -1,8 +1,11 @@
 # Responsi Senior Project - Studi Kasus 1
 
 Nama : Ovie Khaira Zayyan
+
 NIU : 494801
+
 Sesi : Jumat pagi
+
 Secret String : 337ee389b20caab066df4a518e7a7bbbb1f4da16fce7bcaf67b7c27e2fb06e1b20250523080534
 
 ## Checklist Responsi
